@@ -1,0 +1,28 @@
+.img-thumbnail img{
+    width: 100%;
+}
+
+.img-thumbnail{
+    padding: 0;
+}
+
+.img-thumbnail .caption-full{
+    padding: 9px;
+}
+
+#delete-form{
+    display: inline;
+}
+
+.delete-form{
+    display: inline;
+}
+
+body{
+    /* background-color: #2C3335; */
+}
+
+.navbar{
+    box-shadow: 0 0 10px #000;
+}
+
